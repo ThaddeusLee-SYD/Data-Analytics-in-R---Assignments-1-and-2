@@ -15,3 +15,7 @@ distribution of means
 probability
 distribution types
 hypothesis testing
+Power of the test
+desired effect
+ANOVA
+p-value

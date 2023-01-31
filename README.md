@@ -18,4 +18,4 @@ hypothesis testing
 Power of the test
 desired effect
 ANOVA
-p-value
+visualisations in R
